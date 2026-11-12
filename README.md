@@ -1,5 +1,4 @@
 # MedAI-hackathon
-Predict **acute tubular injury (ATI)** from plasma proteomics, as a binary classification problem:
 [README.md](https://github.com/user-attachments/files/26646356/README.md)
 # Boston Kidney Biopsy Cohort — Hackathon Starter Code
 
